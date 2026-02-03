@@ -1,0 +1,33 @@
+# USDCkey.com
+
+> USDCkey is a comparison site for USDC stablecoin debit cards. It helps users find the best crypto card for spending USDC based on their needs.
+
+## Overview
+- Compare 45+ USDC-compatible crypto debit cards
+- Coverage across 30 countries
+- 20 specialized use-case guides
+- Data powered by Spendbase (spendbase.cards)
+
+## Card Categories
+- **Crypto-Native**: Exchange and wallet-based cards (Crypto.com, Coinbase, MetaMask)
+- **On-Chain**: Self-custody, stablecoin-first cards (KAST, Ready, Phantom, Solflare)
+- **Exchange**: Traditional crypto exchange cards (Binance, Bybit, Gemini)
+
+## Key Features Compared
+- Cashback rates and reward tokens
+- FX fees and conversion spreads
+- Custody type (Self-Custody vs Custodial)
+- Supported blockchains
+- Regional availability
+- Annual/monthly fees
+
+## Pages
+- Homepage: https://usdckey.com/
+- Card guides: https://usdckey.com/spend-usdc-with/[card-slug]/
+- Use case guides: https://usdckey.com/best-usdc-card-for/[use-case]/
+- Country guides: https://usdckey.com/usdc-in/[country]/
+- API: https://usdckey.com/api/cards.json
+
+## Contact
+- Parent site: https://spendbase.cards
+- Twitter: @spendbasecards

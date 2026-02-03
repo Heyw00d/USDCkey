@@ -1,0 +1,1055 @@
+[
+  {
+    "name": "Crypto.com",
+    "slug": "crypto-com",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Cronos",
+    "cashback": "1-8%",
+    "cashbackToken": "CRO",
+    "fxFee": "0%",
+    "annualFee": "$0-$4.99/mo",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Level Up program",
+      "DeFi wallet",
+      "NFTs",
+      "Exchange"
+    ],
+    "website": "https://crypto.com/cards",
+    "spendbaseUrl": "https://spendbase.cards#crypto-com",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/crypto-com/"
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Base",
+    "cashback": "1-4%",
+    "cashbackToken": "BTC/ETH/DOGE",
+    "fxFee": "2.49%",
+    "annualFee": "$0",
+    "regions": [
+      "americas"
+    ],
+    "features": [
+      "Choose reward crypto",
+      "Coinbase One Amex",
+      "Base L2",
+      "Staking"
+    ],
+    "website": "https://www.coinbase.com/card",
+    "spendbaseUrl": "https://spendbase.cards#coinbase",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/coinbase/"
+  },
+  {
+    "name": "MetaMask Card",
+    "slug": "metamask",
+    "network": "Mastercard",
+    "custody": "Non-Custodial",
+    "chain": "Linea",
+    "cashback": "1%",
+    "cashbackToken": "USDC",
+    "fxFee": "0%",
+    "annualFee": "$0 / $199",
+    "regions": [
+      "global",
+      "americas",
+      "europe"
+    ],
+    "features": [
+      "Direct wallet spend",
+      "Smart contracts",
+      "Linea L2",
+      "Metal card"
+    ],
+    "website": "https://portfolio.metamask.io/card",
+    "spendbaseUrl": "https://spendbase.cards#metamask",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/metamask/"
+  },
+  {
+    "name": "Ether.fi Cash",
+    "slug": "ether-fi",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Scroll",
+    "cashback": "4.08%",
+    "cashbackToken": "ETHFI",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "global",
+      "americas",
+      "europe"
+    ],
+    "features": [
+      "Borrow vs stake",
+      "DeFi credit",
+      "Liquid vaults",
+      "No selling"
+    ],
+    "website": "https://app.ether.fi/cash",
+    "spendbaseUrl": "https://spendbase.cards#ether-fi",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/ether-fi/"
+  },
+  {
+    "name": "Gnosis Pay",
+    "slug": "gnosis-pay",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Gnosis",
+    "cashback": "1-5%",
+    "cashbackToken": "GNO",
+    "fxFee": "~1.5%",
+    "annualFee": "€30 issuance",
+    "regions": [
+      "europe"
+    ],
+    "features": [
+      "Safe wallet",
+      "SEPA/IBAN",
+      "Multi-sig",
+      "Tiered cashback"
+    ],
+    "website": "https://gnosispay.com",
+    "spendbaseUrl": "https://spendbase.cards#gnosis-pay",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/gnosis-pay/"
+  },
+  {
+    "name": "Nexo",
+    "slug": "nexo",
+    "network": "Mastercard",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "0.5-2%",
+    "cashbackToken": "NEXO",
+    "fxFee": "0-0.5%",
+    "annualFee": "$0",
+    "regions": [
+      "global",
+      "europe"
+    ],
+    "features": [
+      "Credit + Debit mode",
+      "Crypto loans",
+      "Up to 14% APY",
+      "Futures"
+    ],
+    "website": "https://nexo.com/",
+    "spendbaseUrl": "https://spendbase.cards#nexo",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/nexo/"
+  },
+  {
+    "name": "Plutus",
+    "slug": "plutus",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Base",
+    "cashback": "3-9%",
+    "cashbackToken": "PLU",
+    "fxFee": "0%",
+    "annualFee": "$0-€14.99/mo",
+    "regions": [
+      "europe"
+    ],
+    "features": [
+      "DeFi card",
+      "PLU staking",
+      "50+ perks",
+      "On-chain rewards"
+    ],
+    "website": "https://www.plutus.it/money",
+    "spendbaseUrl": "https://spendbase.cards#plutus",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/plutus/"
+  },
+  {
+    "name": "Bybit",
+    "slug": "bybit",
+    "network": "Mastercard",
+    "custody": "Custodial",
+    "chain": "Exchange",
+    "cashback": "2-10%",
+    "cashbackToken": "USDT",
+    "fxFee": "0.9%",
+    "annualFee": "€10",
+    "regions": [
+      "europe",
+      "apac"
+    ],
+    "features": [
+      "VIP rebates",
+      "Up to 8% APY",
+      "Netflix/Spotify",
+      "100% sub rebates"
+    ],
+    "website": "https://www.bybit.com/en/bybit-card",
+    "spendbaseUrl": "https://spendbase.cards#bybit",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/bybit/"
+  },
+  {
+    "name": "Krak Card",
+    "slug": "kraken",
+    "network": "Mastercard",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "1%",
+    "cashbackToken": "BTC/Fiat",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "europe"
+    ],
+    "features": [
+      "400+ crypto & fiat",
+      "No FX fees",
+      "Salary deposits",
+      "Apple Pay"
+    ],
+    "website": "https://www.kraken.com/krak/card",
+    "spendbaseUrl": "https://spendbase.cards#kraken",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/kraken/"
+  },
+  {
+    "name": "WhiteBIT Nova",
+    "slug": "whitebit",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Exchange",
+    "cashback": "Up to 10%",
+    "cashbackToken": "WBT",
+    "fxFee": "Varies",
+    "annualFee": "$0",
+    "regions": [
+      "europe",
+      "global"
+    ],
+    "features": [
+      "Choose cashback category",
+      "Instant BTC rewards",
+      "11 cryptos",
+      "Apple/Google Pay"
+    ],
+    "website": "https://whitebit.com/nova",
+    "spendbaseUrl": "https://spendbase.cards#whitebit",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/whitebit/"
+  },
+  {
+    "name": "Uphold",
+    "slug": "uphold",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "2-4%",
+    "cashbackToken": "XRP",
+    "fxFee": "Varies",
+    "annualFee": "$0",
+    "regions": [
+      "americas"
+    ],
+    "features": [
+      "Spend from balances",
+      "XRP rewards",
+      "250+ assets",
+      "Staking"
+    ],
+    "website": "https://uphold.com/en-us/debit-card",
+    "spendbaseUrl": "https://spendbase.cards#uphold",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/uphold/"
+  },
+  {
+    "name": "BitPay",
+    "slug": "bitpay",
+    "network": "Mastercard",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "0%",
+    "cashbackToken": "N/A",
+    "fxFee": "2%",
+    "annualFee": "$0",
+    "regions": [
+      "americas"
+    ],
+    "features": [
+      "Instant reload",
+      "Apple Pay",
+      "Google Pay",
+      "Samsung Pay"
+    ],
+    "website": "https://bitpay.com/card",
+    "spendbaseUrl": "https://spendbase.cards#bitpay",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/bitpay/"
+  },
+  {
+    "name": "Binance Card",
+    "slug": "binance",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "BNB Chain",
+    "cashback": "Up to 8%",
+    "cashbackToken": "BNB",
+    "fxFee": "0.9%",
+    "annualFee": "$0",
+    "regions": [
+      "europe",
+      "apac",
+      "latam"
+    ],
+    "features": [
+      "Auto-convert",
+      "Real-time conversion",
+      "BNB staking rewards",
+      "Global"
+    ],
+    "website": "https://www.binance.com/en/cards",
+    "spendbaseUrl": "https://spendbase.cards#binance",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/binance/"
+  },
+  {
+    "name": "OKX Card",
+    "slug": "okx",
+    "network": "Mastercard",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "Up to 20%",
+    "cashbackToken": "Crypto",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "europe"
+    ],
+    "features": [
+      "OKX Pay stablecoin wallet",
+      "USDC/USDG spending",
+      "Apple/Google Pay",
+      "No FX markup"
+    ],
+    "website": "https://www.okx.com/okxpay",
+    "spendbaseUrl": "https://spendbase.cards#okx",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/okx/"
+  },
+  {
+    "name": "Jupiter Card",
+    "slug": "jupiter",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Solana",
+    "cashback": "TBD",
+    "cashbackToken": "JUP",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Solana DEX aggregator",
+      "JUP token rewards",
+      "Real-time conversion",
+      "Multi-token spending"
+    ],
+    "website": "https://jup.ag",
+    "spendbaseUrl": "https://spendbase.cards#jupiter",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/jupiter/"
+  },
+  {
+    "name": "Solayer Emerald",
+    "slug": "solayer",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Solana",
+    "cashback": "2-4%",
+    "cashbackToken": "LAYER",
+    "fxFee": "0%",
+    "annualFee": "$75",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "InfiniSVM L1",
+      "sUSD 4-5% yield",
+      "Apple/Google Pay",
+      "ATM withdrawals"
+    ],
+    "website": "https://solayer.org/product/card",
+    "spendbaseUrl": "https://spendbase.cards#solayer",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/solayer/"
+  },
+  {
+    "name": "KAST K Card",
+    "slug": "kast-k",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Solana",
+    "cashback": "2-6%",
+    "cashbackToken": "KAST Points",
+    "fxFee": "0%",
+    "annualFee": "$20/year",
+    "regions": [
+      "global",
+      "latam",
+      "argentina"
+    ],
+    "features": [
+      "Virtual card free",
+      "Stablecoin native",
+      "No conversion fee",
+      "ACH/Wire"
+    ],
+    "website": "https://www.kast.xyz/",
+    "spendbaseUrl": "https://spendbase.cards#kast-k",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/kast-k/"
+  },
+  {
+    "name": "KAST X Card",
+    "slug": "kast-x",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Solana",
+    "cashback": "5-12%",
+    "cashbackToken": "KAST Points",
+    "fxFee": "0%",
+    "annualFee": "$1,000/year",
+    "regions": [
+      "global",
+      "latam",
+      "argentina"
+    ],
+    "features": [
+      "Premium metal card",
+      "Higher limits",
+      "Priority support",
+      "Exclusive perks"
+    ],
+    "website": "https://www.kast.xyz/",
+    "spendbaseUrl": "https://spendbase.cards#kast-x",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/kast-x/"
+  },
+  {
+    "name": "KAST Founders",
+    "slug": "kast-founders",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Solana",
+    "cashback": "Up to 15%",
+    "cashbackToken": "KAST Points",
+    "fxFee": "0%",
+    "annualFee": "$10,000 one-time",
+    "regions": [
+      "global",
+      "latam",
+      "argentina"
+    ],
+    "features": [
+      "Exclusive founders edition",
+      "Lifetime benefits",
+      "Max rewards",
+      "Concierge"
+    ],
+    "website": "https://www.kast.xyz/",
+    "spendbaseUrl": "https://spendbase.cards#kast-founders",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/kast-founders/"
+  },
+  {
+    "name": "Ready",
+    "slug": "ready",
+    "network": "Mastercard",
+    "custody": "Non-Custodial",
+    "chain": "Starknet",
+    "cashback": "0.5-3%",
+    "cashbackToken": "STRK",
+    "fxFee": "0%",
+    "annualFee": "$0 / $120",
+    "regions": [
+      "global",
+      "latam",
+      "india"
+    ],
+    "features": [
+      "Account Abstraction",
+      "Zero FX",
+      "ZK proofs",
+      "DeFi native"
+    ],
+    "website": "https://www.ready.co/card",
+    "spendbaseUrl": "https://spendbase.cards#ready",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/ready/"
+  },
+  {
+    "name": "Avici",
+    "slug": "avici",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Solana",
+    "cashback": "1.5-2%",
+    "cashbackToken": "AVICI",
+    "fxFee": "0-3%",
+    "annualFee": "$0",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Smart wallet",
+      "Passkey login",
+      "USD/EUR accounts",
+      "0% APR"
+    ],
+    "website": "https://avici.money",
+    "spendbaseUrl": "https://spendbase.cards#avici",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/avici/"
+  },
+  {
+    "name": "Phantom Card",
+    "slug": "phantom",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Solana",
+    "cashback": "2%",
+    "cashbackToken": "CASH",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "americas",
+      "global"
+    ],
+    "features": [
+      "$CASH stablecoin",
+      "Self-custody",
+      "Solana native",
+      "Wallet integrated"
+    ],
+    "website": "https://phantom.app",
+    "spendbaseUrl": "https://spendbase.cards#phantom",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/phantom/"
+  },
+  {
+    "name": "Solflare",
+    "slug": "solflare",
+    "network": "Mastercard",
+    "custody": "Non-Custodial",
+    "chain": "Solana",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "First Solana self-custody",
+      "3FA security",
+      "No top-ups",
+      "Google Pay"
+    ],
+    "website": "https://solflare.com/card",
+    "spendbaseUrl": "https://spendbase.cards#solflare",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/solflare/"
+  },
+  {
+    "name": "Holyheld",
+    "slug": "holyheld",
+    "network": "Mastercard",
+    "custody": "Non-Custodial",
+    "chain": "14 chains",
+    "cashback": "0.5-1%",
+    "cashbackToken": "USDC",
+    "fxFee": "2.5%",
+    "annualFee": "€29-€199",
+    "regions": [
+      "europe"
+    ],
+    "features": [
+      "Zero gas fees",
+      "Personal IBAN",
+      "SEPA",
+      "Multi-chain"
+    ],
+    "website": "https://holyheld.com",
+    "spendbaseUrl": "https://spendbase.cards#holyheld",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/holyheld/"
+  },
+  {
+    "name": "Kosh",
+    "slug": "kosh",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Stablecoin spending",
+      "Self-custody",
+      "Multi-chain",
+      "Rebranded from CopperX"
+    ],
+    "website": "https://kosh.money",
+    "spendbaseUrl": "https://spendbase.cards#kosh",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/kosh/"
+  },
+  {
+    "name": "Bleap",
+    "slug": "bleap",
+    "network": "Mastercard",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "2%",
+    "cashbackToken": "USDC",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "europe",
+      "global"
+    ],
+    "features": [
+      "Non-custodial MPC",
+      "Apple Pay",
+      "Zero fees",
+      "Metal card"
+    ],
+    "website": "https://bleap.finance",
+    "spendbaseUrl": "https://spendbase.cards#bleap",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/bleap/"
+  },
+  {
+    "name": "Redotpay",
+    "slug": "redotpay",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "1%",
+    "cashbackToken": "USD",
+    "fxFee": "1.2%",
+    "annualFee": "$0",
+    "regions": [
+      "apac",
+      "global",
+      "latam"
+    ],
+    "features": [
+      "Credit lines",
+      "1M+ users",
+      "Global reach",
+      "USDT focus"
+    ],
+    "website": "https://www.redotpay.com",
+    "spendbaseUrl": "https://spendbase.cards#redotpay",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/redotpay/"
+  },
+  {
+    "name": "Tria",
+    "slug": "tria",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Smart wallet",
+      "Gasless transactions",
+      "Multi-chain support",
+      "Social login"
+    ],
+    "website": "https://app.tria.so/",
+    "spendbaseUrl": "https://spendbase.cards#tria",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/tria/"
+  },
+  {
+    "name": "Kontigo",
+    "slug": "kontigo",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "europe",
+      "global"
+    ],
+    "features": [
+      "Stablecoin spending",
+      "Non-custodial",
+      "Multi-chain",
+      "IBAN support"
+    ],
+    "website": "https://kontigo.io",
+    "spendbaseUrl": "https://spendbase.cards#kontigo",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/kontigo/"
+  },
+  {
+    "name": "OrbitX Neo",
+    "slug": "orbitx-neo",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "2%",
+    "annualFee": "$12/year",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Visa Platinum",
+      "0% deposit fees",
+      "$50K daily limit",
+      "Multi-chain"
+    ],
+    "website": "https://orbitx.finance",
+    "spendbaseUrl": "https://spendbase.cards#orbitx-neo",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/orbitx-neo/"
+  },
+  {
+    "name": "OrbitX Lux",
+    "slug": "orbitx-lux",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "1%",
+    "annualFee": "$30/year",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Visa Signature",
+      "Virtual card included",
+      "0% deposit fees",
+      "Unlimited daily spend"
+    ],
+    "website": "https://orbitx.finance",
+    "spendbaseUrl": "https://spendbase.cards#orbitx-lux",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/orbitx-lux/"
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini",
+    "network": "Mastercard",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "3%",
+    "cashbackToken": "Crypto",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "americas"
+    ],
+    "features": [
+      "Up to 3% crypto back",
+      "70+ cryptos",
+      "No annual fee",
+      "Regulated"
+    ],
+    "website": "https://www.gemini.com/credit-card",
+    "spendbaseUrl": "https://spendbase.cards#gemini",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/gemini/"
+  },
+  {
+    "name": "Bitget Card",
+    "slug": "bitget",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "Up to 4%",
+    "cashbackToken": "BGB",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Crypto to fiat",
+      "BGB rewards",
+      "Global coverage",
+      "No fees"
+    ],
+    "website": "https://www.bitget.com/cards",
+    "spendbaseUrl": "https://spendbase.cards#bitget",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/bitget/"
+  },
+  {
+    "name": "Bitget Premier",
+    "slug": "bitget-premier",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "Up to 8%",
+    "cashbackToken": "BGB",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Premium tier",
+      "Higher cashback",
+      "Priority support",
+      "Exclusive perks"
+    ],
+    "website": "https://www.bitget.com/cards/premier",
+    "spendbaseUrl": "https://spendbase.cards#bitget-premier",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/bitget-premier/"
+  },
+  {
+    "name": "COCA",
+    "slug": "coca",
+    "network": "Mastercard",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Self-custody",
+      "Multi-chain",
+      "DeFi integration"
+    ],
+    "website": "https://www.coca.xyz/",
+    "spendbaseUrl": "https://spendbase.cards#coca",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/coca/"
+  },
+  {
+    "name": "Brighty",
+    "slug": "brighty",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "europe"
+    ],
+    "features": [
+      "Crypto spending",
+      "IBAN",
+      "Multi-currency"
+    ],
+    "website": "https://brighty.app",
+    "spendbaseUrl": "https://spendbase.cards#brighty",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/brighty/"
+  },
+  {
+    "name": "Cypher",
+    "slug": "cypher",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Self-custody",
+      "Privacy focused",
+      "Multi-chain"
+    ],
+    "website": "https://cypher.com",
+    "spendbaseUrl": "https://spendbase.cards#cypher",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/cypher/"
+  },
+  {
+    "name": "Wayex",
+    "slug": "wayex",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "apac"
+    ],
+    "features": [
+      "Australian exchange",
+      "Crypto card"
+    ],
+    "website": "https://www.wayex.com/en-US/card/",
+    "spendbaseUrl": "https://spendbase.cards#wayex",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/wayex/"
+  },
+  {
+    "name": "Bitpanda",
+    "slug": "bitpanda",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "2%",
+    "cashbackToken": "BEST",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "europe"
+    ],
+    "features": [
+      "BEST token rewards",
+      "Stocks & metals",
+      "EU regulated"
+    ],
+    "website": "https://www.bitpanda.com/en/bitpanda-card",
+    "spendbaseUrl": "https://spendbase.cards#bitpanda",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/bitpanda/"
+  },
+  {
+    "name": "Volet",
+    "slug": "volet",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "TBD",
+    "annualFee": "TBD",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "E-wallet + crypto",
+      "Multi-currency",
+      "Multi-blockchain",
+      "Since 2014"
+    ],
+    "website": "https://volet.com",
+    "spendbaseUrl": "https://spendbase.cards#volet",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/volet/"
+  },
+  {
+    "name": "KuCoin Card",
+    "slug": "kucoin",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "Up to 3%",
+    "cashbackToken": "Crypto",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "europe",
+      "global"
+    ],
+    "features": [
+      "KuCard branding",
+      "Cashback tiers",
+      "Instant conversion",
+      "Apple/Google Pay"
+    ],
+    "website": "https://www.kucoin.com/kucard",
+    "spendbaseUrl": "https://spendbase.cards#kucoin",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/kucoin/"
+  },
+  {
+    "name": "Gate Card",
+    "slug": "gate",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "1-7%",
+    "cashbackToken": "Crypto",
+    "fxFee": "0%",
+    "annualFee": "$0",
+    "regions": [
+      "europe",
+      "global"
+    ],
+    "features": [
+      "Up to 7% cashback",
+      "No EEA fees",
+      "Crypto to fiat",
+      "Tiered rewards"
+    ],
+    "website": "https://www.gate.com/card",
+    "spendbaseUrl": "https://spendbase.cards#gate",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/gate/"
+  },
+  {
+    "name": "CoinJar Card",
+    "slug": "coinjar",
+    "network": "Mastercard",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "Reward Points",
+    "cashbackToken": "CoinJar Points",
+    "fxFee": "2.99%",
+    "annualFee": "$0",
+    "regions": [
+      "apac"
+    ],
+    "features": [
+      "Mastercard powered",
+      "Spend crypto as cash",
+      "CoinJar Rewards",
+      "No monthly fees"
+    ],
+    "website": "https://www.coinjar.com/au/card",
+    "spendbaseUrl": "https://spendbase.cards#coinjar",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/coinjar/"
+  },
+  {
+    "name": "Zypto",
+    "slug": "zypto",
+    "network": "Visa",
+    "custody": "Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "ZYPTO",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "global"
+    ],
+    "features": [
+      "Crypto card",
+      "Zypto token",
+      "Global coverage"
+    ],
+    "website": "https://zypto.com",
+    "spendbaseUrl": "https://spendbase.cards#zypto",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/zypto/"
+  },
+  {
+    "name": "Ledger",
+    "slug": "ledger",
+    "network": "Visa",
+    "custody": "Non-Custodial",
+    "chain": "Multi-chain",
+    "cashback": "TBD",
+    "cashbackToken": "TBD",
+    "fxFee": "0%",
+    "annualFee": "TBD",
+    "regions": [
+      "europe",
+      "global"
+    ],
+    "features": [
+      "Hardware wallet",
+      "Ledger Live",
+      "Self-custody",
+      "Cold storage"
+    ],
+    "website": "https://www.ledger.com",
+    "spendbaseUrl": "https://spendbase.cards#ledger",
+    "usdcKeyUrl": "https://usdckey.com/spend-usdc-with/ledger/"
+  }
+]
